@@ -1,4 +1,4 @@
-# liblab Terraform Provider 0.0.1
+# liblab Terraform Provider 0.0.6
 
 This repository contains a Terraform provider that allows you to manage resources through the liblab API.
 

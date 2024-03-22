@@ -1,8 +1,8 @@
 terraform {
   required_providers {
     liblab = {
-      source  = "hashicorp.com/edu/liblab"
-      version = "0.0.1"
+      source  = "hashicorp.com/kapicic/liblab"
+      version = "0.0.6"
     }
   }
 }
