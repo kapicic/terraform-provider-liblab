@@ -31,7 +31,7 @@ type liblabProviderModel struct {
 
 func (p *Provider) Metadata(ctx context.Context, req provider.MetadataRequest, resp *provider.MetadataResponse) {
 	resp.TypeName = "liblab"
-	resp.Version = "0.0.7"
+	resp.Version = "0.0.8"
 }
 
 func (p *Provider) Schema(ctx context.Context, req provider.SchemaRequest, resp *provider.SchemaResponse) {
