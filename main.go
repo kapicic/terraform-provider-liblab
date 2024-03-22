@@ -38,7 +38,7 @@ func main() {
 
 	opts := providerserver.ServeOpts{
 		// TODO: Update this string with the published name of your provider.
-		Address: "registry.terraform.io/hashicorp/liblab",
+		Address: "registry.terraform.io/kapicic/liblab",
 		Debug:   debug,
 	}
 
